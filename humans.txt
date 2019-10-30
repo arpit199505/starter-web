@@ -5,7 +5,7 @@ Arpit Jain
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> -- <developer> -- <twitter>
 
 # THANKS
 
