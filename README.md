@@ -15,3 +15,6 @@ IDK man IDK
 simple website
 
 Sample website with plenty of files for demos
+
+
+copyright
