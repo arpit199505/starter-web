@@ -10,6 +10,8 @@ I dont know the purpose
 
 What am I doing
 
+IDK man IDK
+
 simple website
 
 Sample website with plenty of files for demos
